@@ -47,7 +47,7 @@ float CDenominator(float,float,float,float);
 int main(){
 //variable Declaration....
 
-for(int i=0;i=10;i++){
+for(int i=0;i==10;i++){
 	
 	
   float aone,bone,cone;
